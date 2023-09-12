@@ -8,7 +8,7 @@
 - 📫 How to reach me: Cod3xDev
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I Love Cats
-- 
+
 <!---
 Cod3xDev/Cod3xDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
