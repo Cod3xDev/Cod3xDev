@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on Several Projects Regarding BOTW & TOTK
 - 🤔 I’m looking for help with Java Development
 - 💬 Ask me about anything
-- 📫 How to reach me: Cod3xDev
+- 📫 How to reach me: Cod3xDev @ Discord
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I Love Cats
 
