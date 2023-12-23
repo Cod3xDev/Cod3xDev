@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Cod3xBot's Shop</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: 'Helvetica', sans-serif;
+      background: url('https://i.imgur.com/kPbvRGB.png') center/cover no-repeat;
+      color: #fff;
+      text-align: center;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+    }
+
+    #content {
+      background: rgba(0, 0, 0, 0.7);
+      padding: 15px;
+      border-radius: 10px;
+      max-width: 600px;
+      width: 100%;
+    }
+
+    h1 {
+      font-size: 2em;
+      margin-bottom: 15px;
+    }
+
+    p {
+      font-size: 1.1em;
+      margin-bottom: 20px;
+    }
+
+    #additional-text {
+      font-size: 1.1em;
+      margin-bottom: 15px;
+    }
+
+    .donation-links {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+
+    .join-now-button, .subscribe-button {
+      background-color: #4CAF50;
+      color: white;
+      padding: 8px 15px;
+      text-decoration: none;
+      border-radius: 5px;
+      margin: 8px;
+      font-size: 1em;
+    }
+
+    #goal-progress {
+      margin-top: 15px;
+      width: 100%;
+      background-color: #ddd;
+      border-radius: 5px;
+      overflow: hidden;
+    }
+
+    #progress-bar {
+      height: 15px;
+      width: 0;
+      background-color: #4CAF50;
+      text-align: center;
+      line-height: 15px;
+      color: white;
+    }
+
+    #total-goal {
+      font-size: 1.1em;
+      margin-top: 8px;
+    }
+  </style>
+</head>
+<body>
+
+  <div id="content">
+    <div id="additional-text">
+      <p>Please Visit My Guilded Server To Add This To Your Switch</p>
+      <p>If you appreciate the value of my content, consider making a cryptocurrency donation:</p>
+      <p>BTC Address: 1P4GBec8U8uJ7MEVL1ka6oYkcSZMrz3M7H</p>
+      <p>Subscribe to Guilded: <a href="https://www.guilded.gg/Cod3xDev/subscriptions" class="subscribe-button">Subscribe Now</a></p>
+    </div>
+    <h1>Cod3xBot's Shop</h1>
+    <p>Support our cause and make a difference.</p>
+
+    <div class="donation-links">
+      <a href="https://www.guilded.gg/r/zzEaAA1ObE?i=409GLpQd" class="join-now-button">Join Now</a>
+    </div>
+
+    <div id="goal-progress">
+      <div id="progress-bar">0%</div>
+    </div>
+    
+    <div id="total-goal">Total Goal: $51 AUD</div>
+  </div>
+
+  <script>
+    // JavaScript for updating the progress bar
+    const monthlyGoal = 51; // Set your monthly goal here
+    let currentAmount = 8.85; // Update this value with actual donations
+
+    // Function to update the progress bar
+    function updateProgressBar() {
+      const progressBar = document.getElementById("progress-bar");
+      const progressPercentage = (currentAmount / monthlyGoal) * 100;
+      progressBar.style.width = progressPercentage + "%";
+      progressBar.innerHTML = progressPercentage.toFixed(2) + "%";
+    }
+
+    // Example: Update the currentAmount (simulate donations)
+    updateProgressBar();
+  </script>
+
+</body>
+</html>
