@@ -3,9 +3,9 @@
 - 🔭 I’m currently working on many thing
 - 🌱 I’m currently learning Python, C# & Java
 - 👯 I’m looking to collaborate on Several Projects Regarding BOTW & TOTK
-- 🤔 I’m looking for help with Java Development
+- 🤔 I’m looking for help with Guilded's API
 - 💬 Ask me about anything
-- 📫 How to reach me: Cod3xDev @ Discord
+- 📫 How to reach me: Cod3xDev @ Discord, Cod3xDev @ Guilded
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I Love Cats
 
