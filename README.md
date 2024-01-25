@@ -1,18 +1,33 @@
-### 👋 Hi, I’m @Cod3xDev
+# 👋 Hi, I’m @Cod3xDev
 
-- 🔭 I’m currently working on many thing
-- 🌱 I’m currently learning Python, C# & Java
-- 👯 I’m looking to collaborate on Several Projects Regarding BOTW & TOTK
-- 🤔 I’m looking for help with Guilded's API
+- 🔭 I’m currently working on various projects
+- 🌱 I’m learning Python, C#, & Java
+- 👯 I’m open to collaborations on projects related to BOTW & TOTK
+- 🤔 I’m looking for assistance with Guilded's API
 - 💬 Ask me about anything
-- 📫 How to reach me: Cod3xDev @ Discord, Cod3xDev @ Guilded
+- 📫 How to reach me: [Discord](https://discord.gg/cHQX9KQzVx), [Guilded](https://guilded.gg/cod3xdev)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I Love Cats
+- ⚡ Fun fact: I love cats
 
-<!---
-Cod3xDev/Cod3xDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## GitHub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cod3xDev&show_icons=true&theme=tokyonight)
-![Anurag's GitHub ConvoyChat](https://github-readme-stats.vercel.app/api/top-langs/?username=Cod3xDev&theme=tokyonight)
+![Cod3xDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cod3xDev&show_icons=true&theme=tokyonight)
+
+## Top Languages
+
+![Cod3xDev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cod3xDev&layout=compact&theme=tokyonight)
+
+## Featured Projects
+
+- [Project 1](link_to_project_1): Short description
+- [Project 2](link_to_project_2): Short description
+
+## Tech Stack
+
+- **Languages:** Python, C#, Java
+- **Tools & Frameworks:** (Add any tools or frameworks you are proficient in)
+
+## Recent Activity
+
+<!-- Add a feed of your recent GitHub activity using a GitHub Action or a third-party service -->
+
