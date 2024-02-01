@@ -19,13 +19,12 @@
 
 ## Featured Projects
 
-- [Project 1](link_to_project_1): Short description
-- [Project 2](link_to_project_2): Short description
+- [Switch-OC-Revitalized](https://github.com/Cod3xDev/Switch-OC-Revitalized): 
 
 ## Tech Stack
 
-- **Languages:** Python, C#, Java
-- **Tools & Frameworks:** (Add any tools or frameworks you are proficient in)
+- **Languages:** Python, C++, C#, Java, VB.NET
+- **Tools & Frameworks:** 
 
 ## Recent Activity
 
