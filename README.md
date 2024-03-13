@@ -1,11 +1,11 @@
 # 👋 Hi, I’m @Cod3xDev
 
 - 🔭 I’m currently working on various projects
-- 🌱 I’m learning Python, C#, & Java
+- 🌱 I’m learning C++, Python, C#, & Java
 - 👯 I’m open to collaborations on projects related to BOTW & TOTK
 - 🤔 I’m looking for assistance with Guilded's API
 - 💬 Ask me about anything
-- 📫 How to reach me: [Discord](https://discord.gg/cHQX9KQzVx), [Guilded](https://guilded.gg/cod3xdev)
+- 📫 How to reach me: [Discord](), [Guilded]()
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love cats
 
